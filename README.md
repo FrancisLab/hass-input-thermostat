@@ -1,0 +1,1 @@
+# hass-input-thermostat
